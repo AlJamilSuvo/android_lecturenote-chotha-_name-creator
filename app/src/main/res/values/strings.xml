@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chotha Scanner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="subjectName">
+        <item>OOP</item>
+        <item>EEE</item>
+        <item>DLD</item>
+        <item>DS</item>
+        <item>MATH</item>
+    </string-array>
+    <string name="subject_choice_text_view">Choose Subject :</string>
+    <string name="date_choice_from_layout">Date of Chotha :</string>
+    <string name="add_date">Add Date:</string>
+    <string name="two_date">Two Date</string>
+    <string name="genarate_name">Generate Name</string>
+    <string name="copy_to_clip">Copy To ClipBoard</string>
+    <string name="open_cam_scanner">Open CamScanner</string>
+</resources>
